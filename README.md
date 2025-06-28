@@ -43,7 +43,7 @@ project-root/
 
 ```bash
 git clone https://github.com/sssapio/shopping-cart
-cd your-repo-name
+cd shopping-cart
 ```
 
 2. **Install dependencies:**
