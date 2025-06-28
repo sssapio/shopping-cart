@@ -6,7 +6,7 @@ This is a responsive shopping cart application built with React. It allows users
 
 ## 🔗 Live Demo
 
-👉 [View Live on Vercel](https://your-vercel-link.vercel.app)
+👉 [View Live on Vercel](https://shopping-cart-opal-chi.vercel.app/)
 
 ---
 
@@ -42,59 +42,51 @@ project-root/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/sssapio/shopping-cart
 cd your-repo-name
-Install dependencies:
-
-bash
-Copy
-Edit
-npm install
-Start development server:
-
-bash
-Copy
-Edit
-npm start
-Open http://localhost:3000 in your browser.
-
-🧪 How the Coupon Works
-Enter POWERLABSx in the coupon input field.
-
-A 13.2% discount will be applied to the cart total.
-
-Validation uses a regex to ensure accuracy.
-
-Invalid coupon inputs show an error message.
-
-🔀 Git Workflow Used
-Main development occurs in feature branches:
-
-feature/cart
-
-feature/coupon
-
-feature/ui
-
-Changes are pushed via pull requests to the dev branch.
-
-Final deployment merges are made to the main branch.
-
-🛠 Tech Stack
-React
-
-HTML/CSS
-
-JavaScript (ES6+)
-
-Git & GitHub (version control)
-
-Vercel (hosting platform)
-
-🧑 Author
-Your Name
-GitHub: https://github.com/your-username
-
-📜 License
-This project is open-source and available for learning and demonstration purposes only.
 ```
+
+2. **Install dependencies:**
+
+```bash
+npm install
+```
+
+3. **Start development server:**
+
+```bash
+npm start
+```
+
+4. **Open http://localhost:3000 in your browser.**
+
+## 🧪 How the Coupon Works
+
+- Enter POWERLABSx in the coupon input field.
+- A 13.2% discount will be applied to the cart total.
+- Validation uses a regex to ensure accuracy.
+- Invalid coupon inputs show an error message.
+
+## 🔀 Git Workflow Used
+
+- All development was done directly in the `main` branch.
+- Commits were made progressively to track project setup, feature implementation, and styling.
+- The project was then pushed to GitHub and deployed using Vercel.
+
+## 🛠 Tech Stack
+
+- React
+- HTML/CSS
+- JavaScript (ES6+)
+- Git & GitHub (version control)
+- Vercel (hosting platform)
+
+## 🧑 Author
+
+#### Toluwani Olusanya
+
+GitHub: https://github.com/sssapio
+
+## 📜 License
+
+This project is open-source and available for learning and demonstration purposes only.
